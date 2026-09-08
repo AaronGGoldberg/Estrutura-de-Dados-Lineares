@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "edl20262"
+assignment: "lab-sala"
+secret: "i5ise2m1"
+owner:
+  username: "AaronGGoldberg"
+  id: 175366718
+  accepted_at: "2026-08-26T23:15:26Z"
+source:
+  owner: "TADSCNAT-DEV"
+  owner_id: 186216666
+  repo: "edl20262"
+  branch: "main"
