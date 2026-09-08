@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "edl20262"
+assignment: "pilhas"
+secret: "i5ise2m1"
+owner:
+  username: "AaronGGoldberg"
+  id: 175366718
+  accepted_at: "2026-09-02T23:04:18Z"
+source:
+  owner: "TADSCNAT-DEV"
+  owner_id: 186216666
+  repo: "edl20262"
+  branch: "main"
